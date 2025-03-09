@@ -11,7 +11,7 @@ SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~1hRzkAbA#7-MMTBAJ50yQK8tZc4O4C3
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "ZIDDII RASHID",
+BOT_NAME: process.env.BOT_NAME || "♡ࠣࠦࠧ𝗭͓࠘͜ꭵꭰ໊ꭵ𝐑࠘ꭺ໊͜ꮪꮋ᪱ꮖ໊͜ꭰ💀",
 // add bot name here for menu
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -26,13 +26,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923052267924",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
+OWNER_NAME: process.env.OWNER_NAME || "♡ࠣࠦࠧ𝗭͓࠘͜ꭵꭰ໊ꭵ𝐑࠘ꭺ໊͜ꮪꮋ᪱ꮖ໊͜ꭰ💀",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ZIDDI RASHID*",
+DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡ࠣࠦࠧ𝗭͓࠘͜ꭵꭰ໊ꭵ𝐑࠘ꭺ໊͜ꮪꮋ᪱ꮖ໊͜ꭰ💀*",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/l2wryg.jpg",
@@ -41,7 +41,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/l2wryg.jpg",
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/l2wryg.jpg",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
+LIVE_MSG: process.env.LIVE_MSG || "> ♡ࠣࠦࠧ𝗭͓࠘͜ꭵꭰ໊ꭵ𝐑࠘ꭺ໊͜ꮪꮋ᪱ꮖ໊͜ꭰ💀 ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
